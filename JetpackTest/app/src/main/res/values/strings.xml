@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">JetpackTest</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="nav_tool">跳转tool</string>
+    <string name="nav_about">跳转about</string>
+    <string name="nav_back">返回</string>
+    <string name="title_activity_main2">Main2Activity</string>
+
+
+    <string name="hint_word">Word…</string>
+    <string name="button_save">Save</string>
+    <string name="empty_not_saved">Word not saved because it is empty.</string>
+
+</resources>
